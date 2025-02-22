@@ -1,6 +1,10 @@
 # Proyecto 1 BI
 
-### **Roles y tareas en el proyecto**  
+# CANVA
+
+![CANVA](canvaupdate.png)
+
+# **Roles y tareas en el proyecto**  
 
 #### **Jenifer Arce** - Líder del proyecto 
 - Creó el repositorio y asignó tareas.  
