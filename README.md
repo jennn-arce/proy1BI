@@ -2,7 +2,7 @@
 
 # CANVA
 
-![CANVA](canvaupdate.png)
+![CANVA](https://github.com/jennn-arce/proy1BI/blob/main/Canvaupdate.png)
 
 # **Roles y tareas en el proyecto**  
 
