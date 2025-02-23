@@ -1,10 +1,19 @@
 # Proyecto 1 BI
 
+# **Video**
+https://youtu.be/rOVzRge2zvg
+
+
 # CANVA
 
 Nuestro proyecto busca detectar noticias falsas en política utilizando Machine Learning y Procesamiento de Lenguaje Natural (NLP). Entrenamos un modelo de clasificación binaria con datos de Bloque Neón, aplicando técnicas de limpieza y transformación de texto. Evaluamos distintos modelos y seleccionamos el más efectivo, priorizando minimizar falsos positivos y negativos. Planeamos implementar el modelo en una API para verificación en tiempo real y, en una segunda fase, en una solución web para procesar grandes volúmenes de noticias. Con esta herramienta, buscamos apoyar a ciudadanos, periodistas y entidades en la lucha contra la desinformación.
 
 ![CANVA](https://github.com/jennn-arce/proy1BI/blob/main/Canvaupdate.png)
+
+# Notas: 
+* El notebook final se llama proyecto_final.ipynb
+* Revisar notebook marco_approach.ipynb para análisis de hiperparametros
+* \intentoJeniferCountVectorizer.ipynb tiene la parte del modelo de count vectorizer para el model de Naives Bayes
 
 # **Roles y tareas en el proyecto**  
 
@@ -28,7 +37,7 @@ Nuestro proyecto busca detectar noticias falsas en política utilizando Machine 
 #### **Karen Fuentes**  - Líder de análitica
 - Se enfocó en el **entendimiento del negocio** y análisis de datos.  
 - Creó y perfeccionó las **diapositivas** y el **notebook** del proyecto.  
-- Editó el **video** de presentación.  
+- Editó el **video** de presentación. 
 - **Retos:** Crear un video que fuera bueno y mejorar la calidad de las entregas.  
 - **Solución:** Perfeccionó las presentaciones y el video con contenido del proyecto.  
 
@@ -36,8 +45,7 @@ Nuestro proyecto busca detectar noticias falsas en política utilizando Machine 
 - Cada integrante dedicó **+12 horas** al proyecto.  
 - Los **100 puntos** se dividen **en partes iguales**, 33.3 puntos para cada uno.
 
-### **Video**
-https://youtu.be/rOVzRge2zvg
+
 
 ### **Uso de ChatGPT**  
 - Facilitó la **búsqueda de técnicas de vectorización**, errores en código y mejorar la preparación de datos para el modelo.  
