@@ -14,6 +14,7 @@ Nuestro proyecto busca detectar noticias falsas en política utilizando Machine 
 * El notebook final se llama proyecto_final.ipynb
 * Revisar notebook marco_approach.ipynb para análisis de hiperparametros
 * \intentoJeniferCountVectorizer.ipynb tiene la parte del modelo de count vectorizer para el model de Naives Bayes
+* particion_prueba_estudiantes.csv es el archivo final de datos de prueba compartidos,
 
 # **Roles y tareas en el proyecto**  
 
