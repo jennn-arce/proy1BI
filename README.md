@@ -34,7 +34,10 @@ Nuestro proyecto busca detectar noticias falsas en política utilizando Machine 
 
 ### **Dedicación y Puntos**  
 - Cada integrante dedicó **+12 horas** al proyecto.  
-- Los **100 puntos** se dividen **en partes iguales**, 33.3 puntos para cada uno.  
+- Los **100 puntos** se dividen **en partes iguales**, 33.3 puntos para cada uno.
+
+### **Video**
+https://youtu.be/rOVzRge2zvg
 
 ### **Uso de ChatGPT**  
 - Facilitó la **búsqueda de técnicas de vectorización**, errores en código y mejorar la preparación de datos para el modelo.  
