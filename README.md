@@ -6,7 +6,7 @@ https://youtu.be/rOVzRge2zvg
 
 # CANVA
 
-Nuestro proyecto busca detectar noticias falsas en política utilizando Machine Learning y Procesamiento de Lenguaje Natural (NLP). Entrenamos un modelo de clasificación binaria con datos de Bloque Neón, aplicando técnicas de limpieza y transformación de texto. Evaluamos distintos modelos y seleccionamos el más efectivo, priorizando minimizar falsos positivos y negativos. Planeamos implementar el modelo en una API para verificación en tiempo real y, en una segunda fase, en una solución web para procesar grandes volúmenes de noticias. Con esta herramienta, buscamos apoyar a ciudadanos, periodistas y entidades en la lucha contra la desinformación.
+Nuestro proyecto busca detectar noticias falsas en política utilizando Machine Learning y Procesamiento de Lenguaje Natural (NLP). Entrenamos distintos modelos de clasificación de texto con datos de Bloque Neón, aplicando técnicas de limpieza y transformación de texto. Evaluamos distintos modelos y seleccionamos el más efectivo, priorizando minimizar falsos positivos y negativos. Con esta herramienta, buscamos apoyar a ciudadanos, periodistas y entidades en la lucha contra la desinformación.
 
 ![CANVA](https://github.com/jennn-arce/proy1BI/blob/main/Canvaupdate.png)
 
